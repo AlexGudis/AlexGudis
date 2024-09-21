@@ -18,7 +18,6 @@ I'm passionate about Python, Game Theory, and teaching. Here's a bit more about 
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-2B579A?style=for-the-badge&logo=microsoft-office)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-
 ### 🔥 My Contributions:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexgudis&theme=radical)](https://git.io/streak-stats)
 
