@@ -1,6 +1,6 @@
 ## Hi there, I'm Alex Gudis! 👋
 
-I'm currently a third-year student at Moscow State University.
+I'm currently a third-year student at Moscow State University .
 I'm interested in Data Science, backend development, machine learning and DevOps practices.
 Also I work as a Python teacher to children from different schools.
 
