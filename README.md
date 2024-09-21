@@ -21,7 +21,7 @@ Also I work as a Python teacher to children from different schools.
 
 
 ### 📈 GitHub Stats
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgudis&show_icons=true&theme=radical)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgudis&layout=compact&theme=blue&bg_color=ffffff00&text_color=333333&icon_color=007ACC)
 
 ### 🎯 Current Focus:
 - Studying DataBases, ML, SQL and Networks at the University
@@ -33,4 +33,4 @@ I can play the piano and i'm an excelent pistol shooter
 
 ### 📫 Connect with me:
 [![Email](https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail)](mailto:gudis2003@mail.ru)
-[![Telegram](https://img.shields.io/badge/-Telegram-%0088cc?style=flat-square&logo=telegram)](https://t.me/alexgGud)
+[![Telegram](https://img.shields.io/badge/-Telegram-%0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/alexgGud)  
