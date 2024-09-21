@@ -20,8 +20,9 @@ Also I work as a Python teacher to children from different schools.
 ![GitLab](https://img.shields.io/badge/-GitLab-%23FCA121?style=flat-square&logo=gitlab&logoColor=%23ffffff)
 
 
-### 📈 GitHub Stats
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgudis&layout=compact&theme=blue&bg_color=ffffff00&text_color=333333&icon_color=007ACC)
+### 🔥 My Contributions:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexgudis&theme=blue&hide_border=true)](https://git.io/streak-stats)
+
 
 ### 🎯 Current Focus:
 - Studying DataBases, ML, SQL and Networks at the University
