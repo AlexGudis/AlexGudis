@@ -1,8 +1,10 @@
 ## Hi there, I'm Alex Gudis! 👋
 
-I'm passionate about Python, Game Theory, and teaching. Here's a bit more about what I do and what I've been working on.
+I'm currently a third-year student at Moscow State University.
+I'm interested in Data Science, backend development, machine learning and DevOps practices.
+Also I work as a Python teacher to children from different schools.
 
-### 💻 Languages and Tools:
+### 💻 My IT stack:
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=%23ffffff) 
 ![C](https://img.shields.io/badge/-C-%2300599C?style=flat-square&logo=c&logoColor=%23ffffff)
 ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=%23ffffff)
@@ -18,19 +20,17 @@ I'm passionate about Python, Game Theory, and teaching. Here's a bit more about 
 ![GitLab](https://img.shields.io/badge/-GitLab-%23FCA121?style=flat-square&logo=gitlab&logoColor=%23ffffff)
 
 
-
-### 🔥 My Contributions:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexgudis&theme=radical)](https://git.io/streak-stats)
-
 ### 📈 GitHub Stats
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexgudis&show_icons=true&theme=radical)
 
-### 🧠 Fun Fact:
-I’m inspired by John Nash’s work on game theory and love teaching it through Python projects. Let's create something together!
-
 ### 🎯 Current Focus:
+- Studying DataBases, ML, SQL and Networks at the University
 - Improving my Python teaching content 📚
-- Diving deeper into automation with Ansible, Docker, Kubernetes, and SQL 🛠️
+- Diving deeper into automation with Ansible, Docker and Kubernetes
+
+### 🧠 Fun Fact:
+I can play the piano and i'm an excelent pistol shooter
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://linkedin.com/in/alexgudis) [![Twitter](https://img.shields.io/badge/-Twitter-333?style=flat&logo=twitter)](https://twitter.com/alexgudis)
+[![Email](https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail)](mailto:gudis2003@mail.ru)
+[![Telegram](https://img.shields.io/badge/-Telegram-%0088cc?style=flat-square&logo=telegram)](https://t.me/alexgGud)
