@@ -12,10 +12,11 @@ I'm passionate about Python, Game Theory, and teaching. Here's a bit more about 
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=%23ffffff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23266CE5?style=flat-square&logo=kubernetes&logoColor=%23ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-%234479A1?style=flat-square&logo=postgresql&logoColor=%23ffffff)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-%232B579A?style=flat-square&logo=microsoft-office&logoColor=%23ffffff)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-%234f5b93?style=flat-square&logo=microsoftoffice&logoColor=%23ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=%23ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-%23FCA121?style=flat-square&logo=gitlab&logoColor=%23ffffff)
+
 
 
 ### 🔥 My Contributions:
