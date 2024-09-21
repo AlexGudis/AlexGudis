@@ -23,6 +23,9 @@ Also I work as a Python teacher to children from different schools.
 ### 🔥 My Contributions:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexgudis&theme=blue&hide_border=true)](https://git.io/streak-stats)
 
+### 📊 My Activity:
+<img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=alexgudis&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
+
 
 ### 🎯 Current Focus:
 - Studying DataBases, ML, SQL and Networks at the University
