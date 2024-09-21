@@ -8,7 +8,7 @@ Also I work as a Python teacher to children from different schools.
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=%23ffffff) 
 ![C](https://img.shields.io/badge/-C-%2300599C?style=flat-square&logo=c&logoColor=%23ffffff)
 ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=%23ffffff)
-![Java](https://img.shields.io/badge/-Java-%23E34F26?style=flat-square&logo=java&logoColor=%23ffffff)
+![Java](https://img.shields.io/badge/-Java-%23E34F26?style=flat-square&logo=java&logoColor=%23ffffff) ☕ ![Java Code](https://img.shields.io/badge/Code-Java-%23E34F26?style=flat-square&logo=java&logoColor=%23ffffff)
 ![NASM](https://img.shields.io/badge/-Nasm_Assembler-%23005C7A?style=flat-square&logo=assembler&logoColor=%23ffffff)
 ![Ansible](https://img.shields.io/badge/-Ansible-%23EE0000?style=flat-square&logo=ansible&logoColor=%23ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=%23ffffff)
