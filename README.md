@@ -16,6 +16,8 @@ I'm passionate about Python, Game Theory, and teaching. Here's a bit more about 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=sql)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-333?style=flat&logo=microsoft-office)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
 ### 🔥 My Contributions:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexgudis&theme=radical)](https://git.io/streak-stats)
