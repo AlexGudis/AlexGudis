@@ -1,6 +1,5 @@
 ## Hi there, I'm Alex Gudis! 👋
 
-I'm currently a fourth-year student at Moscow State University faculty of Computer Science.
 I'm interested in Data Science, backend development, machine learning and DevOps practices.
 Also I work as a Python developer and teacher to children from different schools.
 
@@ -25,7 +24,7 @@ Also I work as a Python developer and teacher to children from different schools
 
 
 ### 🎯 Current Focus:
-- Studying DataBases, ML, SQL and Networks at the University
+- Studying DataBases, ML, SQL and Networks forever!
 - Improving my Python teaching content 📚
 - Diving deeper into automation with Ansible, Docker and Kubernetes
 
