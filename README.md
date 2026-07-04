@@ -1,4 +1,4 @@
-# Alex Gudis
+# Hi, I'm Alex Gudis!
 
 **Python Backend Developer | AI / RAG Engineering | DevOps-minded Software Engineer**
 
@@ -91,22 +91,7 @@ I graduated with honors from Lomonosov Moscow State University, Faculty of Compu
 
 ---
 
-## What To Look At
-
-The best way to evaluate my work is through pinned repositories: I use them to highlight backend, AI/RAG, infrastructure, and research-oriented projects.
-
-Recommended pinned repository types:
-
-1. Production-style Python backend service
-2. RAG / LLM / AI agent project
-3. Algorithms or research project
-4. DevOps / infrastructure automation project
-5. Data / ML experiment or benchmark
-6. Teaching or educational programming materials
-
----
-
 ## Connect
 
 [![Email](https://img.shields.io/badge/Email-aleksandrgudis%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aleksandrgudis@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex_Gudis-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-slug)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex_Gudis-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-gudis-4865443b1/)
