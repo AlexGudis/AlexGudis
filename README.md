@@ -1,36 +1,91 @@
-## Hi there, I'm Alex Gudis! 👋
+# Hi, I'm Alex Gudis
 
-I'm interested in Data Science, backend development, machine learning and DevOps practices.
-Also I work as a Python developer and teacher to children from different schools.
+**Python Backend Developer | AI / RAG Engineering | DevOps-minded Software Engineer**
 
-### 💻 My IT stack:
-![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=%23ffffff) 
-![C](https://img.shields.io/badge/-C-%2300599C?style=flat-square&logo=c&logoColor=%23ffffff)
-![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=%23ffffff)
-![Java](https://img.shields.io/badge/-Java-%23E34F26?style=flat-square&logo=java&logoColor=%23ffffff)
-![NASM](https://img.shields.io/badge/-Nasm_Assembler-%23005C7A?style=flat-square&logo=assembler&logoColor=%23ffffff)
-![Ansible](https://img.shields.io/badge/-Ansible-%23EE0000?style=flat-square&logo=ansible&logoColor=%23ffffff)
-![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=%23ffffff)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23266CE5?style=flat-square&logo=kubernetes&logoColor=%23ffffff)
-![SQL](https://img.shields.io/badge/-SQL-%234479A1?style=flat-square&logo=postgresql&logoColor=%23ffffff)
-![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=%23ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-%23FCA121?style=flat-square&logo=gitlab&logoColor=%23ffffff)
+I build production backend services, event-driven integrations, and AI-enabled internal tools.  
+My main focus is Python backend development with FastAPI, Kafka, SQL databases, Docker, CI/CD, and observability.
 
+Recently, I have been working with **LLM/RAG systems**, enterprise knowledge bases, retrieval pipelines, embeddings, prompt orchestration, and AI agents.  
+I also have hands-on DevOps infrastructure experience, which helps me design services that are not only implemented well, but also deployable, observable, and maintainable in production.
 
-### 🔥 My Contributions:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexgudis&theme=blue&hide_border=true)](https://git.io/streak-stats)
+Graduated with honors from **Lomonosov Moscow State University**, Faculty of Computational Mathematics and Cybernetics, with a degree in **Applied Mathematics and Computer Science**.
 
+---
 
+## What I Work With
 
-### 🎯 Current Focus:
-- Studying DataBases, ML, SQL and Networks forever!
-- Improving my Python teaching content 📚
-- Diving deeper into automation with Ansible, Docker and Kubernetes
+### Backend Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-59666C?style=flat-square&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-### 🧠 Fun Fact:
-I can play the piano and i'm an excelent pistol shooter
+### Databases, Messaging & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 📫 Connect with me:
-[![Email](https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail)](mailto:gudis2003@mail.ru)
-[![Telegram](https://img.shields.io/badge/-Telegram-%0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/alexgGud)  
+### AI / ML Engineering
+![LLM](https://img.shields.io/badge/LLM-111827?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-2563EB?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+---
+
+## Engineering Focus
+
+- Building production-ready Python backend services
+- Designing async APIs, integrations, and event-driven systems
+- Working with Kafka-based data flows and SQL-heavy backend logic
+- Developing RAG pipelines and AI agents for internal knowledge bases
+- Improving deployment, monitoring, reliability, and maintainability
+- Applying algorithms and mathematical thinking to practical engineering problems
+
+---
+
+## Selected Experience
+
+- Built a **RAG-based AI agent** for an enterprise knowledge base, including retrieval pipeline, embeddings, document chunking, prompt orchestration, and answer quality control.
+- Designed and implemented **FastAPI services** for internal production systems and distributed integrations.
+- Worked with **Kafka-based messaging**, database persistence, migrations, and backend data processing.
+- Implemented authorization logic using **Keycloak** and role-based access control.
+- Developed DevOps infrastructure with **Docker, Kubernetes, Ansible, Grafana, Prometheus, Tempo, and Linux**.
+- Researched and implemented a modified **Othello hashing** approach for high-performance MAC-VLAN lookup in network processor tables.
+
+---
+
+## Education & Background
+
+- **BSc in Applied Mathematics and Computer Science**  
+  Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics
+
+- **Programming mentor and tutor**  
+  6+ years of teaching Python, algorithms, and competitive programming topics
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexGudis&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGudis&layout=compact&hide_border=true)
+
+---
+
+## Connect
+
+[![Email](https://img.shields.io/badge/Email-aleksandrgudis%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aleksandrgudis@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander_Gudis-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
