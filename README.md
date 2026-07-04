@@ -71,16 +71,6 @@ I graduated with honors from Lomonosov Moscow State University, Faculty of Compu
 
 ---
 
-## Research & Engineering Interests
-
-- Backend architecture and production-grade Python services
-- AI agents, RAG systems, evaluation, and retrieval quality
-- ML/AI infrastructure and practical LLM applications
-- Databases, SQL performance, distributed systems, and observability
-- Algorithms, hashing structures, and performance-oriented data structures
-
----
-
 ## Education & Teaching
 
 - **BSc in Applied Mathematics and Computer Science**  
